@@ -1,0 +1,20 @@
+{
+  "name": " rim2-simple-calculator ",
+  "version": "2.0.2",
+  "description": "a simple calculator with typescript, node.js and Iquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "publishConfig": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rimsha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
